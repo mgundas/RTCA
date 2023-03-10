@@ -1,0 +1,28 @@
+# Real Time Chat App
+
+This app is still in the making.
+
+## Scripts you can run:
+To start the frontend:
+    cd ./client
+    npm start
+
+To start the backend:
+    cd ./server
+    npm start
+
+## Tech used:
+### Backend:
+
+1. Express
+2. Cors
+3. Socket.io
+4. jsonwebtokens
+5. bcrypt
+
+### Frontend:
+
+1. React.js
+2. react-jwt
+3. Tailwind.css
+5. Flowbite
