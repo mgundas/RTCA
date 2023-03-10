@@ -4,12 +4,17 @@ This app is still in the making.
 
 ## Scripts you can run:
 To start the frontend:
-    cd ./client
-    npm start
 
+```console
+foo@bar:~$ cd ./client
+foo@bar:~$ npm start
+```
 To start the backend:
-    cd ./server
-    npm start
+
+```console
+foo@bar:~$ cd ./server
+foo@bar:~$ npm start
+```
 
 ## Tech used:
 ### Backend:
